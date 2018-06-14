@@ -1,3 +1,3 @@
-LaTeX2e-templates
+LaTeX2ε-templates
 ==========================
 ...
